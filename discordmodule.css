@@ -5,6 +5,14 @@
    font-size: 11px;
 }
 
+}
+.dw-footer{
+   color: #abbbbb;
+   font-family: "Open Sans",sans-serif;
+   font-size: 11px;
+}
+
+
 .message{
    color: #abbbbb;
    font-family: "Open Sans",sans-serif;
@@ -33,6 +41,12 @@
 }
 
 #infoContainer{
+   font-family: "Open Sans",sans-serif;
+   font-size: 11px;
+}
+
+}
+#serverInfo{
    font-family: "Open Sans",sans-serif;
    font-size: 11px;
 }
