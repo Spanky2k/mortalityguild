@@ -1,0 +1,23 @@
+.dw-header{
+   background-color: #0e3b0a;
+   color: #abbbbb;
+   font-family: "Open Sans",sans-serif;
+   font-size: 11px;
+}
+
+.message{
+   color: #abbbbb;
+   font-family: "Open Sans",sans-serif;
+   font-size: 11px;
+}
+
+.sender{
+   color: #abbbbb;
+   font-family: "Open Sans",sans-serif;
+   font-size: 11px;
+}
+
+.timestamp{
+   font-family: "Open Sans",sans-serif;
+   font-size: 11px;
+}
